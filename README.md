@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0fad5c99-e4b0-4724-945f-51ac41f7e50d/deploy-status)](https://app.netlify.com/sites/myfirstreactapp-7b8184/deploys)
 [![Node.js CI](https://github.com/SOliv1/myfirstreactapp/actions/workflows/node.js.yml/badge.svg)](https://github.com/SOliv1/myfirstreactapp/actions/workflows/node.js.yml)
+[![Jekyll site CI](https://github.com/SOliv1/myfirstreactapp/actions/workflows/jekyll.yml/badge.svg)](https://github.com/SOliv1/myfirstreactapp/actions/workflows/jekyll.yml)
+
 # Getting Started with Create React App
 
 View the site [here](https://myfirstreactapp-7b8184.netlify.app/)
