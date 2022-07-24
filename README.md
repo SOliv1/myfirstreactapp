@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0fad5c99-e4b0-4724-945f-51ac41f7e50d/deploy-status?branch=master)](https://app.netlify.com/sites/myfirstreactapp-7b8184/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0fad5c99-e4b0-4724-945f-51ac41f7e50d/deploy-status)](https://app.netlify.com/sites/myfirstreactapp-7b8184/deploys)
 # Getting Started with Create React App
 
 View the site [here](https://myfirstreactapp-7b8184.netlify.app/)
